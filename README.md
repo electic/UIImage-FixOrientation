@@ -11,7 +11,7 @@ Take images that are initialized upside down or sideways, and make them upright.
     
 ## Installation
 
-Available in [Cocoa Pods](http://cocoapods.org/?q=UIImage+FixOrientation)
+Available in [CocoaPods](http://cocoapods.org/?q=UIImage+FixOrientation)
 ```ruby
 pod 'UIImage+FixOrientation'
 ```
